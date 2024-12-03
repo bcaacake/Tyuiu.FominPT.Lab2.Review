@@ -1,0 +1,10 @@
+C:\Users\Weedarr\source\repos\Tyuiu.FominPT.Lab2.Review\Tyuiu.FominPT.Lab2.TaskReview.V20\bin\Debug\Tyuiu.FominPT.Lab2.TaskReview.V20.exe.config
+C:\Users\Weedarr\source\repos\Tyuiu.FominPT.Lab2.Review\Tyuiu.FominPT.Lab2.TaskReview.V20\bin\Debug\Tyuiu.FominPT.Lab2.TaskReview.V20.exe
+C:\Users\Weedarr\source\repos\Tyuiu.FominPT.Lab2.Review\Tyuiu.FominPT.Lab2.TaskReview.V20\bin\Debug\Tyuiu.FominPT.Lab2.TaskReview.V20.pdb
+C:\Users\Weedarr\source\repos\Tyuiu.FominPT.Lab2.Review\Tyuiu.FominPT.Lab2.TaskReview.V20\obj\Debug\Tyuiu.FominPT.Lab2.TaskReview.V20.csproj.AssemblyReference.cache
+C:\Users\Weedarr\source\repos\Tyuiu.FominPT.Lab2.Review\Tyuiu.FominPT.Lab2.TaskReview.V20\obj\Debug\Tyuiu.FominPT.Lab2.TaskReview.V20.csproj.CoreCompileInputs.cache
+C:\Users\Weedarr\source\repos\Tyuiu.FominPT.Lab2.Review\Tyuiu.FominPT.Lab2.TaskReview.V20\obj\Debug\Tyuiu.FominPT.Lab2.TaskReview.V20.exe
+C:\Users\Weedarr\source\repos\Tyuiu.FominPT.Lab2.Review\Tyuiu.FominPT.Lab2.TaskReview.V20\obj\Debug\Tyuiu.FominPT.Lab2.TaskReview.V20.pdb
+C:\Users\Weedarr\source\repos\Tyuiu.FominPT.Lab2.Review\Tyuiu.FominPT.Lab2.TaskReview.V20\bin\Debug\Tyuiu.FominPT.Lab2.Review.V20.Lib.dll
+C:\Users\Weedarr\source\repos\Tyuiu.FominPT.Lab2.Review\Tyuiu.FominPT.Lab2.TaskReview.V20\bin\Debug\Tyuiu.FominPT.Lab2.Review.V20.Lib.pdb
+C:\Users\Weedarr\source\repos\Tyuiu.FominPT.Lab2.Review\Tyuiu.FominPT.Lab2.TaskReview.V20\obj\Debug\Tyuiu.FominPT.Lab2.TaskReview.V20.csproj.CopyComplete

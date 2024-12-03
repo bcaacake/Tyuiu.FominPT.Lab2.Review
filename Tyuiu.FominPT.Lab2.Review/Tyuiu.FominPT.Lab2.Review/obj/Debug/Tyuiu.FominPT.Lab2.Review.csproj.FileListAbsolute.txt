@@ -1,0 +1,7 @@
+C:\Users\Weedarr\source\repos\Tyuiu.FominPT.Lab2.Review\Tyuiu.FominPT.Lab2.Review\bin\Debug\Tyuiu.FominPT.Lab2.Review.exe.config
+C:\Users\Weedarr\source\repos\Tyuiu.FominPT.Lab2.Review\Tyuiu.FominPT.Lab2.Review\bin\Debug\Tyuiu.FominPT.Lab2.Review.exe
+C:\Users\Weedarr\source\repos\Tyuiu.FominPT.Lab2.Review\Tyuiu.FominPT.Lab2.Review\bin\Debug\Tyuiu.FominPT.Lab2.Review.pdb
+C:\Users\Weedarr\source\repos\Tyuiu.FominPT.Lab2.Review\Tyuiu.FominPT.Lab2.Review\obj\Debug\Tyuiu.FominPT.Lab2.Review.csproj.AssemblyReference.cache
+C:\Users\Weedarr\source\repos\Tyuiu.FominPT.Lab2.Review\Tyuiu.FominPT.Lab2.Review\obj\Debug\Tyuiu.FominPT.Lab2.Review.csproj.CoreCompileInputs.cache
+C:\Users\Weedarr\source\repos\Tyuiu.FominPT.Lab2.Review\Tyuiu.FominPT.Lab2.Review\obj\Debug\Tyuiu.FominPT.Lab2.Review.exe
+C:\Users\Weedarr\source\repos\Tyuiu.FominPT.Lab2.Review\Tyuiu.FominPT.Lab2.Review\obj\Debug\Tyuiu.FominPT.Lab2.Review.pdb
